@@ -17,6 +17,7 @@ from .forms import ServicioForm
 # Paginator: divide una lista larga de registros en páginas de tamaño fijo
 from django.core.paginator import Paginator
 
+
 # inicio: la vista de la Semana 3 que muestra a qué base estás conectado (no cambia)
 def inicio(request):
     # settings_dict: diccionario con ENGINE, HOST, NAME, etc. de la conexión activa

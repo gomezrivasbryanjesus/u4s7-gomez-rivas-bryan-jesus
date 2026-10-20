@@ -6,6 +6,11 @@ https://u4s7-gomez-rivas-bryan-jesus.onrender.com
 ## Semana 7 — Pulido funcional y UX
 Paginación, búsqueda simple y estado vacío agregados al listado.
 
+## Pruebas
+Paginación invalida validada.
+Resultados de busqueda vacios e incorrectos validados.
+Añadir, editar y eliminar servicios validado.
+
 ## Cómo correrlo localmente
 1. Crear y activar un entorno virtual
 2. pip install -r requirements.txt

@@ -1,4 +1,10 @@
-# Proyecto Django — Bryan Jesus Gomez Rivas
+# U4S7 — GOMEZ RIVAS BRYAN JESUS
+
+## Demo en vivo (producción)
+https://u4s7-gomez-rivas-bryan-jesus.onrender.com
+
+## Semana 7 — Pulido funcional y UX
+Paginación, búsqueda simple y estado vacío agregados al listado.
 
 ## Cómo correrlo localmente
 1. Crear y activar un entorno virtual
